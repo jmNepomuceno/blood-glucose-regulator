@@ -1,0 +1,28 @@
+fasting
+normal = 70-99 mg/dl
+pre-diab = 100-125 mg/dl
+diabetic ppl = 80-130 mg/dl
+
+after eating
+normal = 170-200 mg/dl
+pre-diab = 200-230 mg/dl
+diabetic = 230-300 mg/dl
+
+2-3hours after eating
+normal = less than 140mg/dl
+pre-diab = 140-199 mg/dl
+diabetic ppl = more than 200 mg/dl
+
+stroke - processed meats, commercial burgers, pizza, fried foods, potato chips, 
+crisps and other savoury snacks. Limit foods which contain mostly 
+saturated fats such as butter, cream, cooking margarine, coconut oil and palm oil.
+
+tubercolosis - caffeine, refined sugar and flour, sodium, and bottled sauces. Deep-fried foods
+
+pneumonia - Processed Meats. According to studies, the nitrites used in the production and preservation of processed meats may cause inflammation and stress in the lungs.
+Alcohol. ...
+Sugary Drinks. ...
+Foods High in Sodium.
+
+default drop down
+mobile design about us
